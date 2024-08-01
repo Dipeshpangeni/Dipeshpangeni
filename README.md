@@ -1,9 +1,6 @@
 # Welcome to dyells07's GitHub page!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshpangeni&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshpangeni" /> </p>
 
-## About Me
-
-Hi there, I'm Dipesh pangeni - a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
 ## Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dipeshpangeni&theme=onedark)](https://github.com/Dipeshpangeni/github-profile-trophy)
